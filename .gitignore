@@ -1,0 +1,9 @@
+.env
+myenv
+*.log
+.github
+.idea
+.vscode
+.ipynb_checkpoints
+__pycache__
+
